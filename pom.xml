@@ -90,8 +90,8 @@
 		  	<groupId>org.springframework.security</groupId>
 		  	<artifactId>spring-security-jwt</artifactId>
 			<version>1.1.1.RELEASE</version>
-		</dependency>
-	</dependencies>
+		</dependency>	
+		</dependencies>
 
 	<build>
 		<plugins>
